@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=uni-os&theme=github_dark&hide_border=true)](https://github.com/veekhere/uni-os)
 
 <div>
-  <img src="https://readme-jokes-git-master-acoolah.vercel.app//api?hideBorder&theme=react&bgColor=%230E1116&title=Random%20Joke" />
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veekhere&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://readme-jokes-git-master-acoolah.vercel.app//api?hideBorder&theme=react&bgColor=%230E1116&title=Random%20Joke" />
 </div>
