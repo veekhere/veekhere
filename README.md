@@ -9,5 +9,5 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veekhere&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://readme-jokes-git-master-acoolah.vercel.app//api?hideBorder&theme=react&bgColor=%230E1116&title=Random%20Joke" />
+  <img src="https://readme-jokes-veekhere.vercel.app/api?hideBorder&theme=react&bgColor=%230E1116&title=Random%20Joke" />
 </div>
