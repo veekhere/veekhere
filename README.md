@@ -5,7 +5,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=uni-funlog&theme=github_dark&hide_border=true)](https://github.com/veekhere/uni-funlog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=uni-os&theme=github_dark&hide_border=true)](https://github.com/veekhere/uni-os)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=uni-os&theme=github_dark&hide_border=true)](https://github.com/veekhere/habits-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=habits-tracker&theme=github_dark&hide_border=true)](https://github.com/veekhere/habits-tracker)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veekhere&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
