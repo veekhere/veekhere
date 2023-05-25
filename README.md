@@ -1,4 +1,4 @@
-![](/profile-cover.png)
+![](/cover-1.png)
 
 <br>
 
