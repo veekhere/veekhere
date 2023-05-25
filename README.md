@@ -4,7 +4,7 @@
 
 ## 📦 Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=quoro-app&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc)](https://github.com/veekhere/quoro-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=quoro-app&bg_color=00000005&hide_border=true&title_color=1F2328&icon_color=1F2328&text_color=505050)](https://github.com/veekhere/quoro-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=auto-pc-shutdowner-app&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc)](https://github.com/veekhere/auto-pc-shutdowner-app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=codewars-solutions&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc)](https://github.com/veekhere/codewars-solutions)
@@ -15,7 +15,7 @@
 ## 📊 Languages Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veekhere&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide_title=true&title_color=ffffff&text_color=cccccc" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veekhere&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide_title=true&title_color=ffffff&text_color=cccccc" />
 <!--   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://readme-jokes-veekhere.vercel.app/api?hideBorder&theme=react&bgColor=%230E1116&title=Random%20Joke&qColor=%23EEE170" /> -->
 </div>
