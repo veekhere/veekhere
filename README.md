@@ -1,4 +1,5 @@
-![](/cover-2.0.png)
+![](/cover-light.png#gh-light-mode-only)
+![](/cover-dark.png#gh-dark-mode-only)
 
 ## 📦 Repos
 
