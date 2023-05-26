@@ -4,14 +4,14 @@
 ## 📦 Repos
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=quoro-app&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc#gh-dark-mode-only)](https://github.com/veekhere/quoro-app#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=auto-pc-shutdowner-app&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc#gh-dark-mode-only)](https://github.com/veekhere/quoro-app#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=auto-pc-shutdowner-app&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc#gh-dark-mode-only)](https://github.com/veekhere/auto-pc-shutdowner-app#gh-dark-mode-only)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=codewars-solutions&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc#gh-dark-mode-only)](https://github.com/veekhere/codewars-solutions#gh-dark-mode-only)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=browser-search-cli&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc#gh-dark-mode-only)](https://github.com/veekhere/browser-search-cli#gh-dark-mode-only)
 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=quoro-app&theme=transparent&hide_border=true&title_color=1F2328&icon_color=1F2328&text_color=505050#gh-light-mode-only)](https://github.com/veekhere/quoro-app#gh-light-mode-only)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=auto-pc-shutdowner-app&theme=transparent&hide_border=true&title_color=1F2328&icon_color=1F2328&text_color=505050#gh-light-mode-only)](https://github.com/veekhere/quoro-app#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=auto-pc-shutdowner-app&theme=transparent&hide_border=true&title_color=1F2328&icon_color=1F2328&text_color=505050#gh-light-mode-only)](https://github.com/veekhere/auto-pc-shutdowner-app#gh-light-mode-only)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=codewars-solutions&theme=transparent&hide_border=true&title_color=1F2328&icon_color=1F2328&text_color=505050#gh-light-mode-only)](https://github.com/veekhere/codewars-solutions#gh-light-mode-only)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=browser-search-cli&theme=transparent&hide_border=true&title_color=1F2328&icon_color=1F2328&text_color=505050#gh-light-mode-only)](https://github.com/veekhere/browser-search-cli#gh-light-mode-only)
