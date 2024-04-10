@@ -9,9 +9,6 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=codewars-solutions&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc#gh-dark-mode-only)](https://github.com/veekhere/codewars-solutions#gh-dark-mode-only)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=browser-search-cli&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc#gh-dark-mode-only)](https://github.com/veekhere/browser-search-cli#gh-dark-mode-only)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=graduation-project-client&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc#gh-dark-mode-only)](https://github.com/veekhere/graduation-project-client#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=graduation-project-backend&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc#gh-dark-mode-only)](https://github.com/veekhere/graduation-project-backend#gh-dark-mode-only)
-
 [![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=gitlab-mr-shortcuts&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc#gh-dark-mode-only)](https://github.com/veekhere/gitlab-mr-shortcuts#gh-dark-mode-only)
 
 
@@ -20,9 +17,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=codewars-solutions&theme=transparent&hide_border=true&title_color=1F2328&icon_color=1F2328&text_color=505050#gh-light-mode-only)](https://github.com/veekhere/codewars-solutions#gh-light-mode-only)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=browser-search-cli&theme=transparent&hide_border=true&title_color=1F2328&icon_color=1F2328&text_color=505050#gh-light-mode-only)](https://github.com/veekhere/browser-search-cli#gh-light-mode-only)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=graduation-project-client&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc#gh-light-mode-only)](https://github.com/veekhere/graduation-project-client#gh-light-mode-only)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=graduation-project-backend&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc#gh-light-mode-only)](https://github.com/veekhere/graduation-project-backend#gh-light-mode-only)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=veekhere&repo=gitlab-mr-shortcuts&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc#gh-light-mode-only)](https://github.com/veekhere/gitlab-mr-shortcuts#gh-light-mode-only)
 
